@@ -21,5 +21,4 @@ def isPhoneNumber(text):
             return False
     return True
 
-
 main()
